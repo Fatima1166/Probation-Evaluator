@@ -1,0 +1,1122 @@
+{
+  "departments": [
+    {
+      "id": "iet-regular",
+      "name": "Information Engineering Technology",
+      "shortName": "Information Engineering Technology",
+      "totalSemesters": 8,
+      "semesters": [
+        {
+          "semester": 1,
+          "name": "Semester 1",
+          "totalCredits": 18,
+          "courses": [
+            {
+              "id": "sem1-1",
+              "code": "GER-1100",
+              "name": "Application of Information & Communication Technologies (Theory)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-2",
+              "code": "GER-1100L",
+              "name": "Application of Information & Communication Technologies (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-3",
+              "code": "IET 1001",
+              "name": "Programming Fundamental (Theory)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-4",
+              "code": "IET 1001L",
+              "name": "Programming Fundamental (Lab)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-5",
+              "code": "GER-2400",
+              "name": "Islamic Studies",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-6",
+              "code": "GER-1200",
+              "name": "Functional English",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-7",
+              "code": "IET 1022",
+              "name": "Digital Logic Design",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem1-8",
+              "code": "GER-1304",
+              "name": "Calculus and Analytic Geometry",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "name": "Semester 2",
+          "totalCredits": 15,
+          "courses": [
+            {
+              "id": "sem2-1",
+              "code": "GER-2700",
+              "name": "Professional Practices",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-2",
+              "code": "IET 1002",
+              "name": "Object Oriented Programming (Theory)",
+              "credits": 2,
+              "prereq": "PF",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-3",
+              "code": "IET 1002L",
+              "name": "Object Oriented Programming (Lab)",
+              "credits": 2,
+              "prereq": "PF",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-4",
+              "code": "GER-2401",
+              "name": "Ideology and Constitution of Pakistan",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-5",
+              "code": "IET 2051",
+              "name": "Computer Networking Technologies (Theory)",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-6",
+              "code": "IET 2051L",
+              "name": "Computer Networking Technologies (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-7",
+              "code": "GER-2600",
+              "name": "Applied Physics (Theory)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem2-8",
+              "code": "GER-2600L",
+              "name": "Applied Physics (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "name": "Semester 3",
+          "totalCredits": 18,
+          "courses": [
+            {
+              "id": "sem3-1",
+              "code": "IET 2032",
+              "name": "Data Structures and Algorithms (Theory)",
+              "credits": 3,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-2",
+              "code": "IET 2032L",
+              "name": "Data Structures and Algorithms (Lab)",
+              "credits": 1,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-3",
+              "code": "IET 1003",
+              "name": "Computer Architecture and Assembly Language (Theory)",
+              "credits": 2,
+              "prereq": "DLD",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-4",
+              "code": "IET 1003L",
+              "name": "Computer Architecture and Assembly Language (Lab)",
+              "credits": 1,
+              "prereq": "DLD",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-5",
+              "code": "GER-1305",
+              "name": "Probability and Statistics",
+              "credits": 3,
+              "prereq": "Calculus and Analytical Geometry",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-6",
+              "code": "GER-2800",
+              "name": "Entrepreneurship",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-7",
+              "code": "GER-2402",
+              "name": "Civics and Community Engagement",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-8",
+              "code": "IET 2041",
+              "name": "Database Systems (Theory)",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem3-9",
+              "code": "IET 2041L",
+              "name": "Database Systems (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "name": "Semester 4",
+          "totalCredits": 18,
+          "courses": [
+            {
+              "id": "sem4-1",
+              "code": "IET 2012",
+              "name": "Mobile App Development (Theory)",
+              "credits": 3,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-2",
+              "code": "IET 2012L",
+              "name": "Mobile App Development (Lab)",
+              "credits": 1,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-3",
+              "code": "IET 2052",
+              "name": "Introduction to Web Technologies (Theory)",
+              "credits": 3,
+              "prereq": "Database Systems",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-4",
+              "code": "IET 2052L",
+              "name": "Introduction to Web Technologies (Lab)",
+              "credits": 1,
+              "prereq": "Database Systems",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-5",
+              "code": "GER-2603",
+              "name": "Environmental Sciences",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-6",
+              "code": "GER-1203",
+              "name": "Technical Report Writing",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-7",
+              "code": "IET 2042",
+              "name": "Operating System Principles (Theory)",
+              "credits": 3,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem4-8",
+              "code": "IET 2042L",
+              "name": "Operating System Principles (Lab)",
+              "credits": 1,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "name": "Semester 5",
+          "totalCredits": 17,
+          "courses": [
+            {
+              "id": "sem5-1",
+              "code": "IET 3071",
+              "name": "Software Engineering",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem5-2",
+              "code": "IET 3031",
+              "name": "Theory of Automata & Compilers",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem5-3",
+              "code": "IET 3001",
+              "name": "Technology Project Part 1 (Lab)",
+              "credits": 3,
+              "prereq": "Intro to Web Technologies / Mobile App Development",
+              "status": "Capstone",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem5-4",
+              "code": "IET 3082",
+              "name": "Introduction to Data Science (Theory)",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem5-5",
+              "code": "IET 3082L",
+              "name": "Introduction to Data Science (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem5-6",
+              "code": "IET 4051",
+              "name": "Introduction to Cyber Security (Theory)",
+              "credits": 3,
+              "prereq": "Computer Networking Technologies",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem5-7",
+              "code": "IET 4051L",
+              "name": "Introduction to Cyber Security (Lab)",
+              "credits": 1,
+              "prereq": "Computer Networking Technologies",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "name": "Semester 6",
+          "totalCredits": 16,
+          "courses": [
+            {
+              "id": "sem6-1",
+              "code": "IET 3002",
+              "name": "Technology Project Part 2 (Lab)",
+              "credits": 3,
+              "prereq": "Technology Project Part 1",
+              "status": "Capstone",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem6-2",
+              "code": "IET 3081",
+              "name": "Machine Learning (Theory)",
+              "credits": 2,
+              "prereq": "Intro to Data Science",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem6-3",
+              "code": "IET 3081L",
+              "name": "Machine Learning (Lab)",
+              "credits": 1,
+              "prereq": "Intro to Data Science",
+              "status": "Minor",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem6-4",
+              "code": "IET 3061",
+              "name": "Organizational Behavior",
+              "credits": 3,
+              "prereq": "None",
+              "status": "IDE",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem6-5",
+              "code": "IET 3011",
+              "name": "Visual Programming (Theory)",
+              "credits": 3,
+              "prereq": "OOP, Database Systems",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem6-6",
+              "code": "IET 3011L",
+              "name": "Visual Programming (Lab)",
+              "credits": 1,
+              "prereq": "OOP, Database Systems",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "sem6-7",
+              "code": "IET 3083",
+              "name": "Introduction to Artificial Intelligence",
+              "credits": 3,
+              "prereq": "Intro to Data Science",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "name": "Semester 7",
+          "totalCredits": 16,
+          "courses": [
+            {
+              "id": "sem7-1",
+              "code": "IET 4092",
+              "name": "Supervised Industrial Training-I (Lab)",
+              "credits": 16,
+              "prereq": "None",
+              "status": "Internship",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "name": "Semester 8",
+          "totalCredits": 16,
+          "courses": [
+            {
+              "id": "sem8-1",
+              "code": "IET 4093",
+              "name": "Supervised Industrial Training-II (Lab)",
+              "credits": 16,
+              "prereq": "Supervised Industrial Training-I",
+              "status": "Internship",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iet-premedical",
+      "name": "Biomedical Engineering Technology",
+      "shortName": "Biomedical Engineering Technology",
+      "totalSemesters": 8,
+      "semesters": [
+        {
+          "semester": 1,
+          "name": "Semester 1",
+          "totalCredits": 15,
+          "courses": [
+            {
+              "id": "pm-sem1-1",
+              "code": "GER-1100",
+              "name": "Application of Information & Communication Technologies (Theory)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-2",
+              "code": "GER-1100L",
+              "name": "Application of Information & Communication Technologies (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-3",
+              "code": "IET 1001",
+              "name": "Programming Fundamental (Theory)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-4",
+              "code": "IET 1001L",
+              "name": "Programming Fundamental (Lab)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-5",
+              "code": "MTS 1002",
+              "name": "Basic Mathematics (Pre-Medical)",
+              "credits": 0,
+              "prereq": "None",
+              "status": "Deficiency",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-6",
+              "code": "GER-2400",
+              "name": "Islamic Studies",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-7",
+              "code": "GER-1200",
+              "name": "Functional English",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem1-8",
+              "code": "IET 1022",
+              "name": "Digital Logic Design",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 2,
+          "name": "Semester 2",
+          "totalCredits": 18,
+          "courses": [
+            {
+              "id": "pm-sem2-1",
+              "code": "GER-2700",
+              "name": "Professional Practices",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-2",
+              "code": "IET 1002",
+              "name": "Object Oriented Programming (Theory)",
+              "credits": 2,
+              "prereq": "PF",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-3",
+              "code": "IET 1002L",
+              "name": "Object Oriented Programming (Lab)",
+              "credits": 2,
+              "prereq": "PF",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-4",
+              "code": "GER-2401",
+              "name": "Ideology and Constitution of Pakistan",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-5",
+              "code": "IET 2051",
+              "name": "Computer Networking Technologies (Theory)",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-6",
+              "code": "IET 2051L",
+              "name": "Computer Networking Technologies (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-7",
+              "code": "GER-2600",
+              "name": "Applied Physics (Theory)",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-8",
+              "code": "GER-2600L",
+              "name": "Applied Physics (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem2-9",
+              "code": "GER-1304",
+              "name": "Calculus and Analytic Geometry",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 3,
+          "name": "Semester 3",
+          "totalCredits": 18,
+          "courses": [
+            {
+              "id": "pm-sem3-1",
+              "code": "IET 2032",
+              "name": "Data Structures and Algorithms (Theory)",
+              "credits": 3,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-2",
+              "code": "IET 2032L",
+              "name": "Data Structures and Algorithms (Lab)",
+              "credits": 1,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-3",
+              "code": "IET 1003",
+              "name": "Computer Architecture and Assembly Language (Theory)",
+              "credits": 2,
+              "prereq": "DLD",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-4",
+              "code": "IET 1003L",
+              "name": "Computer Architecture and Assembly Language (Lab)",
+              "credits": 1,
+              "prereq": "DLD",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-5",
+              "code": "GER-1305",
+              "name": "Probability and Statistics",
+              "credits": 3,
+              "prereq": "Calculus and Analytical Geometry",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-6",
+              "code": "GER-2800",
+              "name": "Entrepreneurship",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-7",
+              "code": "GER-2402",
+              "name": "Civics and Community Engagement",
+              "credits": 2,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-8",
+              "code": "IET 2041",
+              "name": "Database Systems (Theory)",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem3-9",
+              "code": "IET 2041L",
+              "name": "Database Systems (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 4,
+          "name": "Semester 4",
+          "totalCredits": 18,
+          "courses": [
+            {
+              "id": "pm-sem4-1",
+              "code": "IET 2012",
+              "name": "Mobile App Development (Theory)",
+              "credits": 3,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-2",
+              "code": "IET 2012L",
+              "name": "Mobile App Development (Lab)",
+              "credits": 1,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-3",
+              "code": "IET 2052",
+              "name": "Introduction to Web Technologies (Theory)",
+              "credits": 3,
+              "prereq": "Database Systems",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-4",
+              "code": "IET 2052L",
+              "name": "Introduction to Web Technologies (Lab)",
+              "credits": 1,
+              "prereq": "Database Systems",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-5",
+              "code": "GER-2603",
+              "name": "Environmental Sciences",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-6",
+              "code": "GER-1203",
+              "name": "Technical Report Writing",
+              "credits": 3,
+              "prereq": "None",
+              "status": "General Education",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-7",
+              "code": "IET 2042",
+              "name": "Operating System Principles (Theory)",
+              "credits": 3,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem4-8",
+              "code": "IET 2042L",
+              "name": "Operating System Principles (Lab)",
+              "credits": 1,
+              "prereq": "OOP",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 5,
+          "name": "Semester 5",
+          "totalCredits": 17,
+          "courses": [
+            {
+              "id": "pm-sem5-1",
+              "code": "IET 3071",
+              "name": "Software Engineering",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem5-2",
+              "code": "IET 3031",
+              "name": "Theory of Automata & Compilers",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem5-3",
+              "code": "IET 3001",
+              "name": "Technology Project Part 1 (Lab)",
+              "credits": 3,
+              "prereq": "Intro to Web Technologies / Mobile App Development",
+              "status": "Capstone",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem5-4",
+              "code": "IET 3082",
+              "name": "Introduction to Data Science (Theory)",
+              "credits": 3,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem5-5",
+              "code": "IET 3082L",
+              "name": "Introduction to Data Science (Lab)",
+              "credits": 1,
+              "prereq": "None",
+              "status": "Minor",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem5-6",
+              "code": "IET 4051",
+              "name": "Introduction to Cyber Security (Theory)",
+              "credits": 3,
+              "prereq": "Computer Networking Technologies",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem5-7",
+              "code": "IET 4051L",
+              "name": "Introduction to Cyber Security (Lab)",
+              "credits": 1,
+              "prereq": "Computer Networking Technologies",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 6,
+          "name": "Semester 6",
+          "totalCredits": 16,
+          "courses": [
+            {
+              "id": "pm-sem6-1",
+              "code": "IET 3002",
+              "name": "Technology Project Part 2 (Lab)",
+              "credits": 3,
+              "prereq": "Technology Project Part 1",
+              "status": "Capstone",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem6-2",
+              "code": "IET 3081",
+              "name": "Machine Learning (Theory)",
+              "credits": 2,
+              "prereq": "Intro to Data Science",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem6-3",
+              "code": "IET 3081L",
+              "name": "Machine Learning (Lab)",
+              "credits": 1,
+              "prereq": "Intro to Data Science",
+              "status": "Minor",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem6-4",
+              "code": "IET 3061",
+              "name": "Organizational Behavior",
+              "credits": 3,
+              "prereq": "None",
+              "status": "IDE",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem6-5",
+              "code": "IET 3011",
+              "name": "Visual Programming (Theory)",
+              "credits": 3,
+              "prereq": "OOP, Database Systems",
+              "status": "Core",
+              "type": "Theory",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem6-6",
+              "code": "IET 3011L",
+              "name": "Visual Programming (Lab)",
+              "credits": 1,
+              "prereq": "OOP, Database Systems",
+              "status": "Core",
+              "type": "Lab",
+              "totalMarks": 100
+            },
+            {
+              "id": "pm-sem6-7",
+              "code": "IET 3083",
+              "name": "Introduction to Artificial Intelligence",
+              "credits": 3,
+              "prereq": "Intro to Data Science",
+              "status": "Minor",
+              "type": "Theory",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 7,
+          "name": "Semester 7",
+          "totalCredits": 16,
+          "courses": [
+            {
+              "id": "pm-sem7-1",
+              "code": "IET 4092",
+              "name": "Supervised Industrial Training-I (Lab)",
+              "credits": 16,
+              "prereq": "None",
+              "status": "Internship",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        },
+        {
+          "semester": 8,
+          "name": "Semester 8",
+          "totalCredits": 16,
+          "courses": [
+            {
+              "id": "pm-sem8-1",
+              "code": "IET 4093",
+              "name": "Supervised Industrial Training-II (Lab)",
+              "credits": 16,
+              "prereq": "Supervised Industrial Training-I",
+              "status": "Internship",
+              "type": "Lab",
+              "totalMarks": 100
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
